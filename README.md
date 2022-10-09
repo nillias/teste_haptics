@@ -1,1 +1,1 @@
-# Teste haptics
+# Teste Haptics
